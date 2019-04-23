@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "644359759652",
+    "firebase_url": "https://self-562ec.firebaseio.com",
+    "project_id": "self-562ec",
+    "storage_bucket": "self-562ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644359759652:android:ac83aee488243948",
+        "android_client_info": {
+          "package_name": "com.mmohamedali.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644359759652-58hgic495ni90g3bnrb5j0hsio4hskng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bawp.self",
+            "certificate_hash": "acb3054637d3c81af68dcd488cb66fba62bf9dee"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrLu4_dScgvutsPr5D4hpIqn9i_N3X1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644359759652-ivl5rdfumvhcs5ura80jc25k8522tprr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
